@@ -1,12 +1,12 @@
 ### Hi there, I'm Amir Salah Alahmedy 👋
 
-:smiley: I live in Cairo, Egypt and I'm 22 years old. I'm constantly learning, 
+:smiley: I live in Cairo, Egypt and I'm 23 years old. I'm constantly learning, 
 <br />
-I love problem solving, although I'm not the best at it, trying to be :blush:.
+I love problem solving, although I consider myself an average probelm solver :blush:.
 <br />
 🔭 I’m currently working on the nandbox AppBuilder.
 <br />
-🌱 I’m currently learning Computer Engineering at Cairo University.
+🌱 I just graduated Computer Engineering at Cairo University last summer.
 <br />
 💬 Ask me about anything.
 <br />
