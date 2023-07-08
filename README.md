@@ -6,7 +6,7 @@ I love problem solving, although I consider myself an average probelm solver :bl
 <br />
 🔭 I’m currently working on the nandbox AppBuilder.
 <br />
-🌱 I just graduated Computer Engineering at Cairo University last summer.
+🌱 I studied computer engineering at Cairo University.
 <br />
 💬 Ask me about anything.
 <br />
