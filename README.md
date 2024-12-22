@@ -2,7 +2,7 @@
 
 :smiley: I live in Cairo, Egypt and I'm 25 years old. I'm constantly learning.
 <br />
-😊 I love problem-solving, although I consider myself an average problem-solver.
+😊 I love problem-solving.
 <br />
 🔭 I’m currently working at Nana.
 <br />
